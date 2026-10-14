@@ -1,0 +1,62 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+.pnp
+.pnp.*
+
+# Build output and caches
+.turbo/
+.next/
+out/
+build/
+dist/
+web-build/
+.expo/
+.vercel/
+.cache/
+
+# Environment files and local secrets
+.env*
+!.env.example
+!**/.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Tests and TypeScript
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+expo-env.d.ts
+
+# Expo and native generated files
+.metro-health-check*
+.kotlin/
+apps/mobile/ios/
+apps/mobile/android/
+*.jks
+*.keystore
+*.p8
+*.p12
+*.pem
+*.key
+*.mobileprovision
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+*.orig
+*.orig.*

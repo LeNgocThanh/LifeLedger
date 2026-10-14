@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791354195113,
+      "tag": "0000_dry_vertigo",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791355445885,
+      "tag": "0001_clammy_mister_fear",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791356547235,
+      "tag": "0002_typical_black_bolt",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1791358843293,
+      "tag": "0003_huge_dexter_bennett",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1791360795918,
+      "tag": "0004_small_leech",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1791364917458,
+      "tag": "0005_round_khan",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1791787838760,
+      "tag": "0006_windy_guardsmen",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1791792824757,
+      "tag": "0007_old_hammerhead",
+      "breakpoints": true
+    }
+  ]
+}

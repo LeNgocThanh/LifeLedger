@@ -1,0 +1,21 @@
+{
+  "name": "qlts",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@11.22.0",
+  "scripts": {
+    "dev": "turbo dev",
+    "dev:web": "pnpm --filter @qlts/web dev",
+    "dev:mobile": "pnpm --filter @qlts/mobile start",
+    "build": "turbo build",
+    "typecheck": "turbo typecheck",
+    "lint": "turbo lint",
+    "db:generate": "pnpm --filter @qlts/web db:generate",
+    "db:migrate": "pnpm --filter @qlts/web db:migrate",
+    "db:studio": "pnpm --filter @qlts/web db:studio"
+  },
+  "devDependencies": {
+    "turbo": "^2.5.0",
+    "typescript": "^5.9.0"
+  }
+}
